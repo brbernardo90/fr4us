@@ -1,3 +1,3 @@
-web: bin/rails server -p 5000
+web: bin/rails server
 js: yarn build --watch
 vite: bin/vite dev
